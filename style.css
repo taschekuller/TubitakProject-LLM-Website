@@ -9153,7 +9153,7 @@ section.particles-js {
   height: 600px;
 }
 .contact-page {
-  background-image: url('images/background/bg-contact.png');
+  /* background-image: url('images/background/bg-contact.png'); */
   background-position: 0px -16%;
   background-repeat: no-repeat;
 }

@@ -25,7 +25,7 @@ Styles Home 1
 	background-image: linear-gradient(180deg, #F0FAFF 52%, #FFFFFF 100%);
 }
 .about-h1 .overlay {
-	background-image: url('../images/background/bg3-home1.png');
+	/* background-image: url('../images/background/bg3-home1.png'); */
 	background-position: -3% -11em;
 	background-repeat: no-repeat;
 	opacity: 1;
